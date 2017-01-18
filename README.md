@@ -1,6 +1,7 @@
 # SNAPapp
 
-A new project in the making.
+SNAP user friendly site from other city: https://www.easyfoodstamps.com/home
+
 
 ## Getting Started
 
