@@ -10,6 +10,7 @@ $ yarn
 $ yarn setup
 $ yarn start
 ```
+Also add the FontAwesome Library (http://fontawesome.io/) inside of the vendor folder at 'client/public/vendor'
 
 Now visit [localhost:4000](http://localhost:4000/)
 
