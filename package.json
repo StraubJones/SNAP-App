@@ -13,14 +13,16 @@
   "dependencies": {
     "bluebird": "^3.4.6",
     "body-parser": "^1.15.2",
+    "browserify-middleware": "^7.1.0",
+    "cookie-session": "*",
     "dotenv": "^2.0.0",
     "express": "^4.14.0",
-    "browserify-middleware": "^7.1.0",
+    "material-ui": "^0.16.7",
+    "node-less-endpoint": "0.x",
     "react": "*",
     "react-dom": "*",
-    "reactify": "*",
-    "node-less-endpoint": "0.x",
-    "cookie-session": "*"
+    "react-tap-event-plugin": "^2.0.1",
+    "reactify": "*"
   },
   "devDependencies": {
     "chai": "^3.5.0",
